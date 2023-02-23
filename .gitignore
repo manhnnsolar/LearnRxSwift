@@ -1,0 +1,7 @@
+Pods/
+*.DS_Store
+build/
+fastlane/report.xml
+*.zip
+*.ipa
+*.dSYM
